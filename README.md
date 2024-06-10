@@ -1,1 +1,1 @@
-Site is live at ambush.ing / cartridge.github.io/ambush.ing
+Site is live at behead.org / cartridge.github.io/behead.org
